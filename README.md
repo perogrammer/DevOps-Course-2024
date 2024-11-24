@@ -59,7 +59,7 @@ Read the full blog: [Deploying an EKS Cluster on AWS using Terraform: A Step-by-
 
 ## 📂 CV  
 
-📄 **[View My CV](./cv.md)**  
+📄 **[View My CV](./MuazElahiCVFinal.pdf)**  
 
 My CV highlights my skills, professional experience, and academic journey, emphasizing my strengths in DevOps, back-end development, and cybersecurity.  
 
@@ -68,14 +68,8 @@ My CV highlights my skills, professional experience, and academic journey, empha
 ## 🌐 Connect With Me  
 
 I’d love to connect with you! Feel free to reach out via:  
-- **[LinkedIn](https://linkedin.com/in/arfatkh)**  
-- **[GitHub](https://github.com/arfatkh)**  
+- **[LinkedIn](https://www.linkedin.com/in/muazelah1/)**  
+- **[GitHub](https://github.com/perogrammer)**  
 
 ---
 
-## 🌟 Why This Repository?  
-
-This repository reflects my commitment to mastering DevOps practices and sharing knowledge with the community.  
-Let’s collaborate, learn, and innovate together in this exciting field!  
-
----
